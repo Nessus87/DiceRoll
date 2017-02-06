@@ -1,2 +1,2 @@
-# DiceRoll
+# DiceRolling
 Rolls dice
